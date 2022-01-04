@@ -22,7 +22,7 @@ The basic requirements for building the executable are:
 
 #### Cloning the project
 ```
-git clone  https://github.com/harlexkhal/Hello-Microverse <Your-Build-Directory>
+git clone  https://github.com/Dagic-zewdu/Hello-Microverse <Your-Build-Directory>
 ```
 
 ## Getting packages and debuging with Stylelint
@@ -45,6 +45,14 @@ npm install --save-dev hint@6.x
 npx hint .
 ```
 ##### from parent source directory
+
+### Licence
+Copyright (c) <year> <copyright holders>
+
+This software is provided 'as-is', without any express or implied warranty. In no event will the authors be held liable for any damages arising from the use of this software.
+
+Permission is granted to anyone to use this software for any purpose, including commercial applications, and to alter it and redistribute it freely, subject to the following restrictions:
+
 
 ## Author
  **Dagmawi zewdu Tilahun** - [Dagic-zewdu](https://github.com/Dagic-zewdu)
