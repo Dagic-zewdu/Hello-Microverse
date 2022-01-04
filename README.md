@@ -47,4 +47,4 @@ npx hint .
 ##### from parent source directory
 
 ## Author
-* **Alexander Oguzie-Ibeh** - [harlexkhal](https://github.com/harlexkhal)
+ **Dagmawi zewdu Tilahun** - [harlexkhal](https://github.com/Dagic-zewdu)
